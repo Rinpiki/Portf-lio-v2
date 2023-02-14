@@ -11,8 +11,8 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: RGB(3, 3, 2);
-  font-family: 'Poppins', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  background: #09090b;
 }
 
 body > div {
