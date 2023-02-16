@@ -25,6 +25,7 @@ export const Logo = styled.h1`
 
 export const BtnMenu = styled.img`
   z-index: 30;
+  cursor: pointer;
   @media (min-width: 700px) {
     display: none;
   }
@@ -39,10 +40,10 @@ export const UlStyle = styled.ul`
     text-decoration: none;
   }
   li {
-    margin-right: 45px;
+    margin-left: 45px;
   }
   li + li {
-    margin-right: 45px;
+    margin-left: 45px;
   }
   @media (min-width: 700px) {
     display: flex;

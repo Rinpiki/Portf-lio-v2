@@ -14,12 +14,16 @@ export const ContainerMenu = styled.div`
   z-index: 20;
   top: 0;
   left: 0;
+  @media (min-width: 700px) {
+    display: none;
+  }
 `
 export const UlStyle = styled.ul`
   li {
+    margin-top: 10px;
     margin-bottom: 10px;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 23px;
     color: #f9f9f9;
     list-style: none;
