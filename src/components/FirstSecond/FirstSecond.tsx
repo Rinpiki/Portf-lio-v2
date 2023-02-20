@@ -1,5 +1,5 @@
 import React from 'react'
-import Jump from 'react-reveal/Jump'
+import { Fade, Slide } from 'react-awesome-reveal'
 
 import {
   Container,
@@ -15,7 +15,7 @@ import person from '../../assets/FirstSection/person.svg'
 function FirstSecond() {
   return (
     <Container>
-      <Jump>
+      <Fade direction="left">
         <ContainerText>
           <p>Olá, eu sou o Marcos Pablo</p>
           <span>Desenvolvedor Front-End & UI Designer</span>
@@ -40,10 +40,10 @@ function FirstSecond() {
             </SecondButton>
           </ContainerBtns>
         </ContainerText>
-      </Jump>
-      <Jump>
+      </Fade>
+      <Slide>
         <Person src={person} />
-      </Jump>
+      </Slide>
     </Container>
   )
 }
