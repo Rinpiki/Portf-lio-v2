@@ -15,7 +15,7 @@ export const Container = styled.div`
   }
 `
 
-export const ContainerText = styled.div`
+export const TextContainer = styled.div`
   display: flex;
   align-items: center;
   text-align: center;
