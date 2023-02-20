@@ -7,10 +7,10 @@ function MenuMobile() {
     <ContainerMenu>
       <UlStyle>
         <li>
-          <a href="#">Sobre mim</a>
+          <a href="#sobre">Sobre mim</a>
         </li>
         <li>
-          <a href="#">Projetos</a>
+          <a href="#projetos">Projetos</a>
         </li>
         <li>
           <a href="#">Serviços</a>

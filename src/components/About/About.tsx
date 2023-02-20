@@ -3,7 +3,7 @@ import * as S from './AboutStyle'
 
 function About() {
   return (
-    <S.AboutContainer>
+    <S.AboutContainer id="sobre">
       <S.Title>Sobre mim</S.Title>
       <S.AboutText>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

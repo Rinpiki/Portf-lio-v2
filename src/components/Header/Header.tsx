@@ -14,16 +14,16 @@ function Header() {
       <Logo>Portfólio</Logo>
       <UlStyle>
         <li>
-          <a href="#">Sobre mim</a>
+          <a href="#sobre">Sobre mim</a>
         </li>
         <li>
-          <a href="#">Projetos</a>
+          <a href="#projetos">Projetos</a>
         </li>
         <li>
-          <a href="#">Serviços</a>
+          <a href="#servicos">Serviços</a>
         </li>
         <li>
-          <a href="#">Minhas skills</a>
+          <a href="#skills">Minhas skills</a>
         </li>
       </UlStyle>
       <BtnMenu src={MenuBtn} onClick={click} />
