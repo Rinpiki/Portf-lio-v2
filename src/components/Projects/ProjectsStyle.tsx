@@ -43,13 +43,11 @@ export const Card = styled.div`
   padding: 16px 18px 7px 18px;
   margin-bottom: 24px;
   border-radius: 5px;
-  border: 1px solid #323333;
+  border: solid 2px #333333;
   /* animação */
   transition: transform 0.2s ease-in-out;
   &:hover {
     animation: ${moveUp} 0.2s ease-in-out forwards;
-  }
-  @media (min-width: 630px) {
   }
 `
 export const CardImg = styled.img`
