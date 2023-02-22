@@ -15,7 +15,7 @@ function FirstSecond() {
           <S.ContainerBtns>
             <S.FirstButton>
               <a
-                href="https://drive.google.com/file/d/1HhTY0-zX9zNOfpY4Eibdn50luG25LfDR/view"
+                href="https://drive.google.com/file/d/1-b56CG2BxkxI7FWZGmS57IyyNIHWP2Ne/view?usp=share_link"
                 target="_blank"
                 rel="noreferrer"
               >
