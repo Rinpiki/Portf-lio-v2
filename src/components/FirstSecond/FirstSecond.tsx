@@ -11,7 +11,7 @@ function FirstSecond() {
       <Slide>
         <S.TextContainer>
           <p>Olá, eu sou o Marcos Pablo</p>
-          <span>Desenvolvedor Front-End & Pistoleiro</span>
+          <span>Desenvolvedor Front-End</span>
           <S.ContainerBtns>
             <S.FirstButton>
               <a

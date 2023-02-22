@@ -13,10 +13,7 @@ function MenuMobile() {
           <a href="#projetos">Projetos</a>
         </li>
         <li>
-          <a href="#">Serviços</a>
-        </li>
-        <li>
-          <a href="#">Minhas skills</a>
+          <a href="#skills">Minhas skills</a>
         </li>
       </UlStyle>
     </ContainerMenu>

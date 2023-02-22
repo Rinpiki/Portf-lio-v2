@@ -20,9 +20,6 @@ function Header() {
           <a href="#projetos">Projetos</a>
         </li>
         <li>
-          <a href="#servicos">Serviços</a>
-        </li>
-        <li>
           <a href="#skills">Minhas skills</a>
         </li>
       </UlStyle>

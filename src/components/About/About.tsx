@@ -6,12 +6,12 @@ function About() {
     <S.AboutContainer id="sobre">
       <S.Title>Sobre mim</S.Title>
       <S.AboutText>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident
+        Me chamo Marcos Pablo, sou um desenvolvedor front-end altamente
+        qualificado e experiente. Tenho habilidades em HTML, CSS, JavaScript,
+        TypeScript, React JS, Node.js, Tailwind e Styled-Components, o que me
+        permite criar páginas rápidas e responsivas com facilidade e eficiência.
+        Com minha vasta experiência, posso criar soluções eficientes e
+        otimizadas para fornecer a melhor experiência ao usuário.
       </S.AboutText>
     </S.AboutContainer>
   )

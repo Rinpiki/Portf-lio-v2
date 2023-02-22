@@ -13,7 +13,7 @@ function Contact() {
     <S.ContactContainer>
       <Zoom cascade damping={0.2}>
         <Cards icon={smile} ftext="WhatsApp" stext="62996794325" />
-        <Cards icon={mail} ftext="E-mail" stext="MarcosDoPneu.com" />
+        <Cards icon={mail} ftext="E-mail" stext="marcospablocm@gmail.com" />
         <Cards icon={phone} ftext="Telefone" stext="62996794325" />
         <Cards icon={linkedin} ftext="Linkedin" link="Marcos Pablo" />
       </Zoom>

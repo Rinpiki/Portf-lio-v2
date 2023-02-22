@@ -10,7 +10,7 @@ import ty from '../../assets/skill/typescript.svg'
 import SkillCard from './SkillCard'
 function MySkills() {
   return (
-    <S.MySkills>
+    <S.MySkills id="skills">
       <S.Title>Minhas skills</S.Title>
       <S.ContainerSkills>
         <Fade cascade damping={0.05}>
