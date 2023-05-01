@@ -4,6 +4,12 @@ import * as S from './ProjectsStyle'
 
 const projectData = [
   {
+    title: 'JPfood',
+    img: 'https://user-images.githubusercontent.com/74790193/235496927-80e50709-41de-4b76-be2f-c6959eda7a5b.png',
+    tech: ['Next.js, Typescript, Tailwind'],
+    link: 'https://github.com/Rinpiki/JPFooD',
+  },
+  {
     title: 'Blizzard',
     img: 'https://user-images.githubusercontent.com/74790193/214060442-5e093262-59e7-467a-92fd-0152941cd9ab.png',
     tech: ['React', 'Typescript', 'styled-components'],

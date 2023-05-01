@@ -25,6 +25,8 @@ export const Title = styled.div`
 `
 export const ContainerSkills = styled.div`
   display: grid;
+  justify-content: center;
+  align-items: center;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-column-gap: 15px;
